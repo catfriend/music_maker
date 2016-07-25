@@ -1,0 +1,1 @@
+This is a generative music app. Open to a blank canvas. Click and circle appears, accompanied by a c tone. The circle animates, goes out, and then repeats. You can click all over and make as many circles and tones as you wish.
